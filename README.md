@@ -33,7 +33,7 @@ Please make sure the EDA tool environment is properly setup before running the g
 
 Getting the source
 ```bash
-git clone https://github.com/google/riscv-dv.git
+git clone https://github.com/MeAkash77/RISCV-DV-RISC-V-CPU-Verification-Formal-Validation-Framework.git
 ```
 
 There are two ways that you can run scripts from riscv-dv.
